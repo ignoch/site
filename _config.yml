@@ -1,0 +1,11 @@
+# Site settings
+title: ignoch
+email:
+description: "En un mundo sin esperanza el glamour muere al último. El último de los webmasters. Guadalajara "
+baseurl: ""
+url: "http://ignoch.com"
+username: "ignoch"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
