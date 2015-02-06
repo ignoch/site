@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.1.0'
+gem 'bundler'
+gem 'jekyll'
+gem 'kramdown'
+gem 'rack-jekyll'
+gem 'puma'
+gem 'rake'
